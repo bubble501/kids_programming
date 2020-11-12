@@ -13,6 +13,11 @@
   1. 函数
     - Function is a sequence of statements.
     - The computer is silly, we had to tell them how to do instead of what to do, the function is used to solve this problem, we can use a simple word to replace a bunch of steps if a function has been defined.
+    
++ show
+  1. 显示
+    - Please show me your hand.
+  
 
 + image
   1. 图片
@@ -24,3 +29,13 @@
     
 + smile
   1. 😊
+  
++ emoji
+  1. sad: 😞.  
+  2. smile:  😊
+  3. angry: 😠
+  4. silly: 🤪
+  5. rabbit: 🐇
+  6. cow: 🐄
+  7. xmas: 
+  
