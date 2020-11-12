@@ -37,5 +37,5 @@
   4. silly: 🤪
   5. rabbit: 🐇
   6. cow: 🐄
-  7. xmas: 
+  7. snake: 🐍 
   
